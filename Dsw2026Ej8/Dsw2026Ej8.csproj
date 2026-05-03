@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Dsw2026ej6">
+      <HintPath>..\..\..\..\..\source\repos\Dsw2026ej6\Dsw2026ej6\bin\Debug\net10.0\Dsw2026ej6.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
